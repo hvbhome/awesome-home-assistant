@@ -283,7 +283,7 @@ _Valuable links, that don't fit in any of the above categories (yet!)._
 * [Python Amazon Dash](https://github.com/Nekmo/amazon-dash) - Hack your Amazon Dash to run what you want. Without welders.
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - HomeKit to MQTT bridge.
 * [Home Assistant Device Database](https://www.hadevices.com/) - Database of supported/confirmed working devices.
-
+* [Tinkering with Home Automation] (http://blog.ceard.tech) - Tinkering with Home Automation
 ## Alternative Home Automation Software
 
 _Home Assistant isn't the only home automation framework out there, here
